@@ -1,17 +1,16 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/0VJqL4m/frontend-banner.png" alt="Frontend Developer Banner" width="1280" height="320"/>
 
 # Hi, I'm Sri 👋
 Aspiring Frontend Developer | React Enthusiast | MERN Stack Beginner
 
-I build **interactive, clean, and job-ready React applications**.  
-Currently focused on mastering **React, CRUD operations, and form handling** to land my first frontend developer role.
+I build interactive, clean, and job-ready React applications.  
+Currently focused on mastering React, CRUD operations, and form handling to land my first frontend developer role.
 
 ---
 
-## 🛠 Tech Skills
+## 🛠 Tech Stack  
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -20,27 +19,27 @@ Currently focused on mastering **React, CRUD operations, and form handling** to 
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
 **Mini E-Commerce (Add to Cart)**  
 - Product listing, cart functionality, state management  
-- GitHub: [https://github.com/sriram45-codeio/ecommerce-project](https://github.com/sriram45-codeio/ecommerce-project)
+- GitHub Repo: [https://github.com/sriram45-codeio/ecommerce-project](https://github.com/sriram45-codeio/ecommerce-project)
 
 **Login Form with Validation**  
 - Controlled components, email/password validation  
-- GitHub: [https://github.com/sriram45-codeio/login-form](https://github.com/sriram45-codeio/login-form)
+- GitHub Repo: [https://github.com/sriram45-codeio/login-form](https://github.com/sriram45-codeio/login-form)
 
 **Searchable Product List**  
 - Dynamic filtering using React state  
-- GitHub: [https://github.com/sriram45-codeio/searchable-products](https://github.com/sriram45-codeio/searchable-products)
+- GitHub Repo: [https://github.com/sriram45-codeio/searchable-products](https://github.com/sriram45-codeio/searchable-products)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact  
 
 LinkedIn: [https://www.linkedin.com/in/sriram54/](https://www.linkedin.com/in/sriram54/)  
 GitHub: [https://github.com/sriram45-codeio](https://github.com/sriram45-codeio)
 
 ---
 
-⭐ **Fun Fact:** I combine **hard work + smart work** to be part of the 1% of developers who stand out.
+⭐ Fun Fact: I combine hard work + smart work to stand out as a developer.
