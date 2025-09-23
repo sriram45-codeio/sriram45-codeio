@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" alt="Tech Banner" width="100%" />
 </p>
 
-# Hi, I'm Sri 👋
+# Hi, I'm Sriram S S 👋
 Aspiring Frontend Developer | React Enthusiast | MERN Stack Beginner  
 
 I am passionate about building interactive, clean, and job-ready React applications.  
