@@ -29,9 +29,7 @@ Currently focusing on deploying production-ready apps and mastering real-world f
    GitHub Repo: [https://github.com/sriram45-codeio/ShopEase](https://github.com/sriram45-codeio/ShopEase)  
    Live Demo: [https://shopease-ui.netlify.app](https://shopease-ui.netlify.app)  
 
-2. **CRUD Operations App**  
-   Full-stack CRUD operations with form validation, API integration, and dynamic UI updates  
-   GitHub Repo: [https://github.com/sriram45-codeio/CRUD-App](https://github.com/sriram45-codeio/CRUD-App)  
+
 
 ---
 
